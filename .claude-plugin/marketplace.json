@@ -1,7 +1,7 @@
 {
   "name": "recall-app",
   "owner": {
-    "name": "Recall"
+    "name": "Recall-Flashcards"
   },
   "metadata": {
     "description": "Tools for making Recall flashcard decks with Claude."
@@ -11,7 +11,7 @@
       "name": "recall-deck-builder",
       "source": "./",
       "description": "Turn lectures, slides, transcripts or notes you share with Claude into reviewed .recall flashcard decks for the Recall app. Runs in your own Claude session, with no API key, account link or server.",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "category": "education",
       "keywords": [
         "education",

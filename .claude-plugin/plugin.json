@@ -1,10 +1,10 @@
 {
   "name": "recall-deck-builder",
   "displayName": "Recall Deck Builder",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Turn lectures, slides, transcripts or notes you share with Claude into reviewed .recall flashcard decks for the Recall app. Runs in your own Claude session, with no API key, account link or server.",
   "author": {
-    "name": "Recall",
+    "name": "Recall-Flashcards",
     "url": "https://github.com/lCaptNemol/recall-deck-builder"
   },
   "homepage": "https://github.com/lCaptNemol/recall-deck-builder",
