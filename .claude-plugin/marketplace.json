@@ -11,7 +11,7 @@
       "name": "recall-deck-builder",
       "source": "./",
       "description": "Turn lectures, slides, transcripts or notes you share with Claude into reviewed .recall flashcard decks for the Recall app. Runs in your own Claude session, with no API key, account link or server.",
-      "version": "0.2.2",
+      "version": "0.2.3",
       "category": "education",
       "keywords": [
         "education",

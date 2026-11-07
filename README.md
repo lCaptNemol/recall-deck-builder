@@ -13,7 +13,7 @@ or iOS. Recall does not need to be installed to make the file.
 `https://github.com/lCaptNemol/recall-deck-builder`, and install Recall Deck
 Builder. To install
 from a file instead, choose **Add > Upload plugin** and select
-`recall-deck-builder-0.2.2.zip` from the
+`recall-deck-builder-0.2.3.zip` from the
 [latest release](https://github.com/lCaptNemol/recall-deck-builder/releases/latest).
 Turn on code execution and file creation in Settings so Claude can write the
 deck file. A plugin installed on your account also loads in Claude Code.
@@ -29,7 +29,7 @@ Inside a session, `/plugin marketplace add lCaptNemol/recall-deck-builder`
 followed by `/plugin install recall-deck-builder@recall-app` does the same.
 
 **Skill only.** If your plan offers custom skills but not plugins, upload
-`lecture-to-recall-skill-0.2.2.zip` from the same release in the Skills
+`lecture-to-recall-skill-0.2.3.zip` from the same release in the Skills
 section of Settings, with code execution turned on.
 
 Plugins, skills and code execution depend on your Claude plan and, in a
